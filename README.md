@@ -11,6 +11,8 @@ Tiny Dockerized CTF lab:
 
 ---
 ## 📝 Lab Scope & Test Questions
+⚠️ Disclaimer: This lab is for educational use only. Do not attempt these techniques on systems you don’t own or have permission to test.
+
 The following are in-scope targets and questions to guide your testing:
 - ❓ Question: Which flag is hidden in the HTTP headers?
 - ❓ Question: What sensitive flag is left inside HTML comments?
