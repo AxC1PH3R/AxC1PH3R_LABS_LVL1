@@ -14,5 +14,8 @@ Tiny Dockerized CTF lab:
 ## 🚀 Quick Start
 
 ```bash
+# Build & start
 docker compose up -d --build
+
+# Run flag checks
 ./test_flags.sh
