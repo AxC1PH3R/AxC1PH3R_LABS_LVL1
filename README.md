@@ -10,6 +10,16 @@ Tiny Dockerized CTF lab:
 [![Made with ❤️ by AxC1PH3R](https://img.shields.io/badge/made%20by-AxC1PH3R-purple)](#)
 
 ---
+## 📝 Lab Scope & Test Questions
+The following are in-scope targets and questions to guide your testing:
+- ❓ Question: Which flag is hidden in the HTTP headers?
+- ❓ Question: What sensitive flag is left inside HTML comments?
+- ❓ Question: Which disallowed entry reveals an exposed flag?
+- ❓ Question: Which file leaks a flag when accessed directly?
+- ❓ Question: Which flag is leaked due to backup file exposure?
+- ❓ Question: Which flag is displayed in the service banner?
+
+---
 
 ## 🚀 Quick Start
 
