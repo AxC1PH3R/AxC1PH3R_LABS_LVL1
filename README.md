@@ -14,16 +14,5 @@ Tiny Dockerized CTF lab:
 ## 🚀 Quick Start
 
 ```bash
-# Build & start
 docker compose up -d --build
-
-# Run flag checks
 ./test_flags.sh
-
-Then open:
-
-🌍 Landing page → http://localhost:8080/
-
-📝 WordPress blog → http://localhost:8080/blog
-
-📡 Banner service → nc localhost 1337
