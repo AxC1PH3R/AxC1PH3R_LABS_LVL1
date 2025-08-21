@@ -1,0 +1,11 @@
+# docker
+*.log
+*.pid
+*.seed
+.env
+# macOS / Linux cruft
+.DS_Store
+Thumbs.db
+# editor
+.vscode/
+.idea/

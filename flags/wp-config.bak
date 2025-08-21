@@ -1,0 +1,5 @@
+<?php
+// Backup config with sensitive info
+// Flag below:
+$flag = "flag{backup_file_exposed}";
+?>

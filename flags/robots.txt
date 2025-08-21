@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /hidden_dir/
+
+# Flag inside robots.txt
+flag{robots_txt_exposed}
